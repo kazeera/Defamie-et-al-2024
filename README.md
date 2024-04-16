@@ -1,5 +1,5 @@
 # Defamie-et-al-2024
-This repository contains code used to interrogate and visualize omics and other data published Defamie et al. 2024. Read [here]().
+This repository contains code used to interrogate and visualize publicly-available single-cell datasets published in Defamie et al. 2024. Read [here]().
 
 
 ### R Packages Used
