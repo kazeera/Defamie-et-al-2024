@@ -16,6 +16,7 @@ openxlsx | 4.2.5.2 | Read and write to xlsx files | Schauberger et al (2023). [U
 plyr | 1.8.6 | Map values to rename array elements | Hadley Wickham (2011). The Split-Apply-Combine Strategy for Data Analysis. Journal of Statistical Software, 40(1), 1-29. [URL](http://www.jstatsoft.org/v40/i01/)
 R | 4.1.0 | Computing language | R Core Team (2021). R: A language and environment for statistical computing. R Foundation for Statistical Computing, Vienna, Austria. 
 reshape2 | 1.4.4 | Reformat data frames | Hadley Wickham (2007). Reshaping Data with the reshape Package. Journal of Statistical Software, 21(12), 1-20. [URL](http://www.jstatsoft.org/v21/i12/)
+scType |  | Assign cell type | Ianevski et al (2022). Fully-automated and ultra-fast cell-type identification using specific marker combinations from single-cell transcriptomic data, 13(1), 1246. [URL](https://pubmed.ncbi.nlm.nih.gov/35273156/)
 Seurat | 4.0.2 | Single-cell pipeline and visualization | Hao et al (2020). Integrated analysis of multimodal single-cell data. bioRxiv. [URL](https://satijalab.org/seurat/)
 viridis | 0.6.1 | Color palette | Simon Garnier, Noam Ross, Robert Rudis, Antônio P. Camargo, Marco Sciaini, and Cédric Scherer (2021). Rvision - Colorblind-Friendly Color Maps for R. R package version 0.6.1.
 
