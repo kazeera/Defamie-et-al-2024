@@ -1,5 +1,5 @@
 # Defamie-et-al-2024
-This repository contains code used to interrogate and visualize publicly-available single-cell datasets published in Defamie et al. 2024. Read [here]().
+This repository contains code used to interrogate and visualize publicly available single-cell datasets published in Defamie et al., J Clin Invest. 2024 Dec 19;135(3):e164997. doi: 10.1172/JCI164997. Read [here]<https://pmc.ncbi.nlm.nih.gov/articles/PMC11785925/>.
 
 
 ### R Packages Used
@@ -24,7 +24,7 @@ viridis | 0.6.1 | Color palette | Simon Garnier, Noam Ross, Robert Rudis, Antôn
 
 
 ### Acronym Dictionary
-Here is a list of acronyms and their respective expansions that are commonly used in the code.
+A list of acronyms and respective expansions that are commonly used in the code.
 
 * bdl = bile duct ligation
 * ccl4 = carbon tetrachloride chemical treatment
