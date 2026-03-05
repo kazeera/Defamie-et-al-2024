@@ -1,5 +1,5 @@
 # Defamie-et-al-2024
-This repository contains code used to interrogate and visualize publicly available single-cell datasets published in Defamie et al., J Clin Invest. 2024 Dec 19;135(3):e164997. doi: 10.1172/JCI164997. Read [here]<https://pmc.ncbi.nlm.nih.gov/articles/PMC11785925/>.
+This repository contains code used to interrogate and visualize publicly available single-cell datasets published in Defamie et al., J Clin Invest. 2024 Dec 19;135(3):e164997. doi: 10.1172/JCI164997. Read [here](https://pmc.ncbi.nlm.nih.gov/articles/PMC11785925/).
 
 
 ### R Packages Used
